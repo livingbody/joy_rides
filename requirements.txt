@@ -1,0 +1,8 @@
+paddlepaddle
+paddlehub
+visualdl
+paddleseg
+paddlenlp
+paddleocr
+paddleX
+wechaty
