@@ -28,7 +28,7 @@
 
 ## 1.景物识别
 
-
+景物识别模块项目地址：https://github.com/monsterchan/Dawn/
 
 ## 2.分割上色模型训练
 
